@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/event
+END
+TaskDoneEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/event/TaskDoneEvent.java
+END
+FutureEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/event/FutureEvent.java
+END
+TaskErroEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/event/TaskErroEvent.java
+END

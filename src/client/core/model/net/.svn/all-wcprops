@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/Connection.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/Sender.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/Protocol.java
+END
+SSLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/SSLConnection.java
+END
+PlainConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/PlainConnection.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/Receiver.java
+END
+ResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/net/ResponseParser.java
+END

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Console!</string>
+    <string name="app_name">MyClient</string>
+    <string name="btn_done">DONE</string>
+    <string name="btn_cls">CLS</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="conn">connect</string>
+</resources>

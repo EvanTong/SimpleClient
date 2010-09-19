@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap
+END
+FastImapParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/FastImapParser.java
+END
+CRLFTerminatedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/CRLFTerminatedReader.java
+END
+ImapConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/ImapConnection.java
+END
+ImapEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/ImapEvent.java
+END
+ImapSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/ImapSession.java
+END
+ImapReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/ImapReceiver.java
+END
+ListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/ListReader.java
+END

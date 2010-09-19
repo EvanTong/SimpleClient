@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/17/ideas/MyClient
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/ideas/MyClient/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/ideas/MyClient/.project
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/ideas/MyClient/Android.mk
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/ideas/MyClient/AndroidManifest.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/event
+END
+ImapServerLoginedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/event/ImapServerLoginedEvent.java
+END
+ImapSendDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/event/ImapSendDone.java
+END
+ImapSendError.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/event/ImapSendError.java
+END
+ImapConnectionClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/event/ImapConnectionClose.java
+END

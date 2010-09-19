@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol
+END
+SMTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/SMTP.java
+END
+IMAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/IMAP.java
+END
+POP.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/POP.java
+END

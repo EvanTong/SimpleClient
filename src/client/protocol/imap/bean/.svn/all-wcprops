@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean
+END
+LsubData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/LsubData.java
+END
+SearchData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/SearchData.java
+END
+ListData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ListData.java
+END
+BodyStructureFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/BodyStructureFields.java
+END
+RespTextCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/RespTextCode.java
+END
+ExistsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ExistsData.java
+END
+UntaggedResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/UntaggedResponse.java
+END
+RespCondState.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/RespCondState.java
+END
+BasicBodyStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/BasicBodyStructure.java
+END
+ImapFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ImapFlag.java
+END
+ImapTaggedResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ImapTaggedResponse.java
+END
+MessageBodyStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/MessageBodyStructure.java
+END
+TextBodyStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/TextBodyStructure.java
+END
+SearchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/SearchResponse.java
+END
+MailboxData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/MailboxData.java
+END
+BodyStructure1Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/BodyStructure1Part.java
+END
+MailboxList.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/MailboxList.java
+END
+ResponseData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ResponseData.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/Response.java
+END
+RespCondAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/RespCondAuth.java
+END
+MsgAtt.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/MsgAtt.java
+END
+ResponseDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ResponseDone.java
+END
+Greeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/Greeting.java
+END
+ResponseFatal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ResponseFatal.java
+END
+IVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/IVisitor.java
+END
+RecentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/RecentData.java
+END
+CapabilityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/CapabilityData.java
+END
+RespCondBye.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/RespCondBye.java
+END
+Envelope.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/Envelope.java
+END
+StatusData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/StatusData.java
+END
+LoginDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/LoginDone.java
+END
+BodyStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/BodyStructure.java
+END
+ConCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ConCell.java
+END
+BodyStructureMPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/BodyStructureMPart.java
+END
+ImapUntaggedResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ImapUntaggedResponse.java
+END
+FlagsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/FlagsData.java
+END
+StatusAttList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/StatusAttList.java
+END
+ImapResponseFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/bean/ImapResponseFactory.java
+END

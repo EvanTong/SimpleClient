@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/ideas/MyClient/src/client/core
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/ConnectionManager.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/EventManager.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/TaskManager.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task
+END
+CmdList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/CmdList.java
+END
+CmdNoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/CmdNoop.java
+END
+_DownloadAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/_DownloadAll.java
+END
+CmdSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/CmdSelect.java
+END
+ImapCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/ImapCommand.java
+END
+CmdSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/CmdSearch.java
+END
+CmdFetch.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/ideas/MyClient/src/client/protocol/imap/task/CmdFetch.java
+END

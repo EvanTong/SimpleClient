@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/project
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/project/Project.java
+END
+ISubscribable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/project/ISubscribable.java
+END
+ITodo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/ideas/MyClient/src/client/core/model/project/ITodo.java
+END
